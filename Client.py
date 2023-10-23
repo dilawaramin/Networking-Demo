@@ -1,4 +1,5 @@
 # Networking Class Demonstration
+# Note: Launch server file first
 
 # Import socket module
 from socket import * 

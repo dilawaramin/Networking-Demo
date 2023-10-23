@@ -1,9 +1,4 @@
-# NAME:         DILAWAR AMIN
-# STUDENT ID:   210845870
-
-# NAME:         MUHAMMAD SAAD
-# STUDENT ID:   210855580
-
+# Networking demonstration
 
 # Import socket module
 from socket import * 
